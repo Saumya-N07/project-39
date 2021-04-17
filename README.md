@@ -1,2 +1,1 @@
-# project-39
-fruit catching game
+# C39-Debug-Part-1
